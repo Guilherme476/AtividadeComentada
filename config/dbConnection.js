@@ -6,4 +6,4 @@ module.exports=function(){
  		password: 'ifms' ,
  		database: 'portal_noticias'
  	});
-}//Dados para acesso ao Banco de dados
+}//Dados para criação do banco de dados
